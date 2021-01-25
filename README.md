@@ -2,8 +2,6 @@
 
 Next starter for creating a blog with Strapi.
 
-![screenshot image](/screenshot.png)
-
 This starter allows you to try Strapi with Next with the example of a simple blog. It is fully customizable and due to the fact that it is open source, fully open to contributions. So do not hesitate to add new features and report bugs!
 
 ## Features
